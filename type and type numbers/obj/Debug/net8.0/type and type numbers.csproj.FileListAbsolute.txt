@@ -1,0 +1,4 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\type and type numbers\obj\Debug\net8.0\type and type numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\type and type numbers\obj\Debug\net8.0\type and type numbers.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\type and type numbers\obj\Debug\net8.0\type and type numbers.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\type and type numbers\obj\Debug\net8.0\type and type numbers.csproj.CoreCompileInputs.cache
