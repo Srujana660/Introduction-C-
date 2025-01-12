@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\obj\Debug\net8.0\For & For each loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\obj\Debug\net8.0\For & For each loop.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\obj\Debug\net8.0\For & For each loop.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\obj\Debug\net8.0\For & For each loop.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\bin\Debug\net8.0\For & For each loop.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\bin\Debug\net8.0\For & For each loop.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\bin\Debug\net8.0\For & For each loop.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\bin\Debug\net8.0\For & For each loop.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\bin\Debug\net8.0\For & For each loop.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\obj\Debug\net8.0\For & For each loop.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\obj\Debug\net8.0\refint\For & For each loop.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\obj\Debug\net8.0\For & For each loop.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\obj\Debug\net8.0\For & For each loop.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\For & For each loop\obj\Debug\net8.0\ref\For & For each loop.dll

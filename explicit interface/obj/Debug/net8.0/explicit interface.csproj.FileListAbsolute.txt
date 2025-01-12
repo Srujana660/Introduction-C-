@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\bin\Debug\net8.0\explicit interface.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\bin\Debug\net8.0\explicit interface.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\bin\Debug\net8.0\explicit interface.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\bin\Debug\net8.0\explicit interface.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\bin\Debug\net8.0\explicit interface.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\obj\Debug\net8.0\explicit interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\obj\Debug\net8.0\explicit interface.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\obj\Debug\net8.0\explicit interface.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\obj\Debug\net8.0\explicit interface.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\obj\Debug\net8.0\explicit interface.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\obj\Debug\net8.0\refint\explicit interface.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\obj\Debug\net8.0\explicit interface.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\obj\Debug\net8.0\explicit interface.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\explicit interface\obj\Debug\net8.0\ref\explicit interface.dll
