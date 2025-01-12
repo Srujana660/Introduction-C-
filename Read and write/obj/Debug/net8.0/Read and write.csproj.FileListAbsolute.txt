@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\bin\Debug\net8.0\Read and write.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\bin\Debug\net8.0\Read and write.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\bin\Debug\net8.0\Read and write.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\bin\Debug\net8.0\Read and write.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\bin\Debug\net8.0\Read and write.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\obj\Debug\net8.0\Read and write.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\obj\Debug\net8.0\Read and write.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\obj\Debug\net8.0\Read and write.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\obj\Debug\net8.0\Read and write.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\obj\Debug\net8.0\Read and write.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\obj\Debug\net8.0\refint\Read and write.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\obj\Debug\net8.0\Read and write.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\obj\Debug\net8.0\Read and write.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Read and write\obj\Debug\net8.0\ref\Read and write.dll
