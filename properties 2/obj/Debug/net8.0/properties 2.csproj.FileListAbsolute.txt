@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\bin\Debug\net8.0\properties 2.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\bin\Debug\net8.0\properties 2.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\bin\Debug\net8.0\properties 2.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\bin\Debug\net8.0\properties 2.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\bin\Debug\net8.0\properties 2.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\obj\Debug\net8.0\properties 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\obj\Debug\net8.0\properties 2.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\obj\Debug\net8.0\properties 2.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\obj\Debug\net8.0\properties 2.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\obj\Debug\net8.0\properties 2.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\obj\Debug\net8.0\refint\properties 2.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\obj\Debug\net8.0\properties 2.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\obj\Debug\net8.0\properties 2.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\properties 2\obj\Debug\net8.0\ref\properties 2.dll

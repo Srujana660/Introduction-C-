@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\bin\Debug\net8.0\parameterized  threadstart delegate.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\bin\Debug\net8.0\parameterized  threadstart delegate.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\bin\Debug\net8.0\parameterized  threadstart delegate.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\bin\Debug\net8.0\parameterized  threadstart delegate.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\bin\Debug\net8.0\parameterized  threadstart delegate.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\obj\Debug\net8.0\parameterized  threadstart delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\obj\Debug\net8.0\parameterized  threadstart delegate.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\obj\Debug\net8.0\parameterized  threadstart delegate.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\obj\Debug\net8.0\parameterized  threadstart delegate.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\obj\Debug\net8.0\parameterized  threadstart delegate.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\obj\Debug\net8.0\refint\parameterized  threadstart delegate.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\obj\Debug\net8.0\parameterized  threadstart delegate.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\obj\Debug\net8.0\parameterized  threadstart delegate.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\parameterized  threadstart delegate\obj\Debug\net8.0\ref\parameterized  threadstart delegate.dll

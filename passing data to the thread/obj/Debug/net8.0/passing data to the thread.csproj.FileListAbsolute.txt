@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\obj\Debug\net8.0\passing data to the thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\obj\Debug\net8.0\passing data to the thread.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\obj\Debug\net8.0\passing data to the thread.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\obj\Debug\net8.0\passing data to the thread.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\bin\Debug\net8.0\passing data to the thread.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\bin\Debug\net8.0\passing data to the thread.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\bin\Debug\net8.0\passing data to the thread.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\bin\Debug\net8.0\passing data to the thread.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\bin\Debug\net8.0\passing data to the thread.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\obj\Debug\net8.0\passing data to the thread.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\obj\Debug\net8.0\refint\passing data to the thread.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\obj\Debug\net8.0\passing data to the thread.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\obj\Debug\net8.0\passing data to the thread.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\passing data to the thread\obj\Debug\net8.0\ref\passing data to the thread.dll
