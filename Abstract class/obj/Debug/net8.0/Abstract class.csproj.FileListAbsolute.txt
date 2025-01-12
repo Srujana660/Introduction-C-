@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\obj\Debug\net8.0\Abstract class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\obj\Debug\net8.0\Abstract class.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\obj\Debug\net8.0\Abstract class.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\obj\Debug\net8.0\Abstract class.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\bin\Debug\net8.0\Abstract class.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\bin\Debug\net8.0\Abstract class.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\bin\Debug\net8.0\Abstract class.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\bin\Debug\net8.0\Abstract class.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\bin\Debug\net8.0\Abstract class.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\obj\Debug\net8.0\Abstract class.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\obj\Debug\net8.0\refint\Abstract class.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\obj\Debug\net8.0\Abstract class.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\obj\Debug\net8.0\Abstract class.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Abstract class\obj\Debug\net8.0\ref\Abstract class.dll
