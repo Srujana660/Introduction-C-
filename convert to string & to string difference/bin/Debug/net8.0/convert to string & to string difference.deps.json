@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "convert to string & to string difference/1.0.0": {
+        "runtime": {
+          "convert to string & to string difference.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "convert to string & to string difference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

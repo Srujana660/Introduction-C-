@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\obj\Debug\net8.0\Custom Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\obj\Debug\net8.0\Custom Exceptions.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\obj\Debug\net8.0\Custom Exceptions.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\obj\Debug\net8.0\Custom Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\bin\Debug\net8.0\Custom Exceptions.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\bin\Debug\net8.0\Custom Exceptions.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\bin\Debug\net8.0\Custom Exceptions.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\bin\Debug\net8.0\Custom Exceptions.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\bin\Debug\net8.0\Custom Exceptions.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\obj\Debug\net8.0\Custom Exceptions.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\obj\Debug\net8.0\refint\Custom Exceptions.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\obj\Debug\net8.0\Custom Exceptions.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\obj\Debug\net8.0\Custom Exceptions.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Custom Exceptions\obj\Debug\net8.0\ref\Custom Exceptions.dll
