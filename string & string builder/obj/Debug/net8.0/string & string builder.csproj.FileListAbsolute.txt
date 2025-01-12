@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\bin\Debug\net8.0\string & string builder.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\bin\Debug\net8.0\string & string builder.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\bin\Debug\net8.0\string & string builder.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\bin\Debug\net8.0\string & string builder.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\bin\Debug\net8.0\string & string builder.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\obj\Debug\net8.0\string & string builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\obj\Debug\net8.0\string & string builder.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\obj\Debug\net8.0\string & string builder.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\obj\Debug\net8.0\string & string builder.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\obj\Debug\net8.0\string & string builder.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\obj\Debug\net8.0\refint\string & string builder.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\obj\Debug\net8.0\string & string builder.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\obj\Debug\net8.0\string & string builder.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\string & string builder\obj\Debug\net8.0\ref\string & string builder.dll

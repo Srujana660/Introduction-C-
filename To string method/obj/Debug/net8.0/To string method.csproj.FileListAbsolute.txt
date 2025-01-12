@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\bin\Debug\net8.0\To string method.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\bin\Debug\net8.0\To string method.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\bin\Debug\net8.0\To string method.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\bin\Debug\net8.0\To string method.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\bin\Debug\net8.0\To string method.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\obj\Debug\net8.0\To string method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\obj\Debug\net8.0\To string method.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\obj\Debug\net8.0\To string method.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\obj\Debug\net8.0\To string method.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\obj\Debug\net8.0\To string method.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\obj\Debug\net8.0\refint\To string method.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\obj\Debug\net8.0\To string method.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\obj\Debug\net8.0\To string method.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\To string method\obj\Debug\net8.0\ref\To string method.dll
