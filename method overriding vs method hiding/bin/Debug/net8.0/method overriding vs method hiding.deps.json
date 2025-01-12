@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "method overriding vs method hiding/1.0.0": {
+        "runtime": {
+          "method overriding vs method hiding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "method overriding vs method hiding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
