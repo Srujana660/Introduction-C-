@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\obj\Debug\net8.0\multiple class inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\obj\Debug\net8.0\multiple class inheritance.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\obj\Debug\net8.0\multiple class inheritance.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\obj\Debug\net8.0\multiple class inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\bin\Debug\net8.0\multiple class inheritance.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\bin\Debug\net8.0\multiple class inheritance.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\bin\Debug\net8.0\multiple class inheritance.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\bin\Debug\net8.0\multiple class inheritance.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\bin\Debug\net8.0\multiple class inheritance.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\obj\Debug\net8.0\multiple class inheritance.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\obj\Debug\net8.0\refint\multiple class inheritance.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\obj\Debug\net8.0\multiple class inheritance.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\obj\Debug\net8.0\multiple class inheritance.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\multiple class inheritance\obj\Debug\net8.0\ref\multiple class inheritance.dll
