@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\obj\Debug\net8.0\dictionary over list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\obj\Debug\net8.0\dictionary over list.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\obj\Debug\net8.0\dictionary over list.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\obj\Debug\net8.0\dictionary over list.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\bin\Debug\net8.0\dictionary over list.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\bin\Debug\net8.0\dictionary over list.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\bin\Debug\net8.0\dictionary over list.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\bin\Debug\net8.0\dictionary over list.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\bin\Debug\net8.0\dictionary over list.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\obj\Debug\net8.0\dictionary over list.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\obj\Debug\net8.0\refint\dictionary over list.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\obj\Debug\net8.0\dictionary over list.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\obj\Debug\net8.0\dictionary over list.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\dictionary over list\obj\Debug\net8.0\ref\dictionary over list.dll
