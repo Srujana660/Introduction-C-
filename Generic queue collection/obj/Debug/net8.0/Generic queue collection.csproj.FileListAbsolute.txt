@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\bin\Debug\net8.0\Generic queue collection.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\bin\Debug\net8.0\Generic queue collection.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\bin\Debug\net8.0\Generic queue collection.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\bin\Debug\net8.0\Generic queue collection.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\bin\Debug\net8.0\Generic queue collection.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\obj\Debug\net8.0\Generic queue collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\obj\Debug\net8.0\Generic queue collection.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\obj\Debug\net8.0\Generic queue collection.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\obj\Debug\net8.0\Generic queue collection.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\obj\Debug\net8.0\Generic queue collection.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\obj\Debug\net8.0\refint\Generic queue collection.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\obj\Debug\net8.0\Generic queue collection.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\obj\Debug\net8.0\Generic queue collection.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic queue collection\obj\Debug\net8.0\ref\Generic queue collection.dll

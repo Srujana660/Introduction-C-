@@ -1,0 +1,14 @@
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\bin\Debug\net8.0\Generic Stack Collection.exe
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\bin\Debug\net8.0\Generic Stack Collection.deps.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\bin\Debug\net8.0\Generic Stack Collection.runtimeconfig.json
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\bin\Debug\net8.0\Generic Stack Collection.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\bin\Debug\net8.0\Generic Stack Collection.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\obj\Debug\net8.0\Generic Stack Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\obj\Debug\net8.0\Generic Stack Collection.AssemblyInfoInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\obj\Debug\net8.0\Generic Stack Collection.AssemblyInfo.cs
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\obj\Debug\net8.0\Generic Stack Collection.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\obj\Debug\net8.0\Generic Stack Collection.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\obj\Debug\net8.0\refint\Generic Stack Collection.dll
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\obj\Debug\net8.0\Generic Stack Collection.pdb
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\obj\Debug\net8.0\Generic Stack Collection.genruntimeconfig.cache
+C:\Users\Pradeep.K\OneDrive - Coventry University\Desktop\C#\Generic Stack Collection\obj\Debug\net8.0\ref\Generic Stack Collection.dll
